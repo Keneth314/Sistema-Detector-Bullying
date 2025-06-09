@@ -1,0 +1,1 @@
+import{j as r}from"./index-CQMnH7y3.js";import{C as s}from"./config-global-BpgCBei4.js";import{U as o}from"./user-view-C7Dgj80R.js";import"./FirstPage-1n2Emrpu.js";import"./InputAdornment-Lho4Lqpm.js";import"./useFormControl-DRjUDRuH.js";function t(){return r.jsxs(r.Fragment,{children:[r.jsx("title",{children:`Users - ${s.appName}`}),r.jsx(o,{})]})}export{t as default};
