@@ -8,6 +8,6 @@ export type ConfigValue = {
 };
 
 export const CONFIG: ConfigValue = {
-  appName: 'Detección Bullyng',
+  appName: 'Detección Bullying',
   appVersion: packageJson.version,
 };
