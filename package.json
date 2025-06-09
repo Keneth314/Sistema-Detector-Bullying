@@ -4,7 +4,7 @@
   "licence": "MIT",
   "version": "3.0.0",
   "private": false,
-  "homepage": "https://keneth314.github.io/detector-bullyng",
+  "homepage": "https://keneth314.github.io/Sistema-Detector-Bullying",
   "type": "module",
   "scripts": {
     "dev": "vite",
